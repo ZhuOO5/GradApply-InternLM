@@ -3,6 +3,8 @@
 **Description:**  
 The *Graduate Application Assistant* leverages the power of **InternLM**, a cutting-edge large language model, to assist users in navigating the challenging process of applying to master’s and PhD programs. This AI-driven tool provides personalized recommendations for program selection, supervisor matching, and application material enhancement, empowering applicants around the world 🌍.  
 
+This project is inspired by my participation in the **[InternLM Practical Training Camp](https://github.com/InternLM/Tutorial)**. While not a requirement of the training, this project is an independent effort to apply what I’ve learned and explore the potential of InternLM in solving real-world problems. 
+
 **Core Features:**  
 - **Program Selection Advice** 🏫: Tailored recommendations based on academic background, research interests, and career goals.  
 - **Supervisor Matching** 🤝: Assistance in identifying and reaching out to potential supervisors aligned with the applicant’s research focus.  
